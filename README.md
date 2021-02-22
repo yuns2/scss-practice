@@ -74,3 +74,14 @@
 - [x] [http://donicaida.com/](http://donicaida.com/)
 - [x] [https://canalstreet.market/](https://canalstreet.market/)
 - [x] [https://wonhundred.com/](https://wonhundred.com/)
+
+
+## How to connects :
+
+1. 오른쪽 상단의 ‘Code’ 버튼을 클릭하여, ‘Download ZIP’을 실행합니다.
+2. 보려고 하는 포트폴리오를 에디터에서 실행합니다.
+3. 터미널을 실행하여 ‘npm i’을 입력합니다.
+4. 터미널에서 ‘npm run dev’를 입력한 후, 브라우저로 index.html 파일을 엽니다.
+
+* 1920*1080 화면에 최적화되어 있습니다.
+* 편의를 위해 폴더마다 메인페이지(index.html)를 구현하였습니다.
